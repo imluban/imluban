@@ -15,5 +15,4 @@
 ![](https://streak-stats.demolab.com/?user=imluban&theme=aura&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=imluban&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
