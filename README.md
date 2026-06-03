@@ -1,5 +1,5 @@
 <a href="https://github.com/imluban">
-  <img width="100%" alt="Luban Noor's GitHub profile" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,20,30&height=260&section=header&text=LUBAN%20NOOR&fontSize=80&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Developer%20%E2%80%A2%20AI%20Tools%20Builder%20%E2%80%A2%20Open%20Source&descSize=22&descAlignY=62"/>
+  <img width="100%" alt="Luban Noor's GitHub profile" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,20,30&height=260&section=header&text=LUBAN%20NOOR&fontSize=70&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20Web%20Developer&descSize=22&descAlignY=62"/>
 </a>
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
@@ -28,5 +28,5 @@
 
 
 <a href="https://github.com/imluban">
-  <img width="100%" Luban Noor's profile footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,20,30&height=130&section=footer&animation=fadeIn"/>
+  <img width="100%" alt="Luban Noor's profile footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,20,30&height=140&section=footer&animation=fadeIn"/>
 </a>
