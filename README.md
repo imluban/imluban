@@ -29,5 +29,5 @@
 
 
 <a href="https://github.com/imluban">
-  <img width="100%" alt="Luban Noor's profile footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,20,30&height=140&section=footer&animation=fadeIn"/>
+  <img width="100%" alt="Luban Noor's profile footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:222222,100:444444&height=140&section=footer&animation=fadeIn"/>
 </a>
