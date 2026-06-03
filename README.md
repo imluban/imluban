@@ -1,6 +1,53 @@
 <a href="https://github.com/imluban">
-  <img width="100%" alt="Luban Noor's GitHub profile" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:222222,100:444444&height=260&section=header&text=LUBAN%20NOOR&fontName=Share%20Tech%20Mono&fontSize=70&fontAlignY=38&fontColor=00FF33&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20Web%20Developer&descSize=22&descAlignY=62"/>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="100%">
+    <defs>
+      <!-- Background Gradient: Black to Charcoal Gray -->
+      <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#000000" />
+        <stop offset="50%" stop-color="#151515" />
+        <stop offset="100%" stop-color="#252525" />
+      </linearGradient>
+
+      <!-- Text Glow Effect -->
+      <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="4" result="blur" />
+        <feComposite in="SourceGraphic" in2="blur" operator="over" />
+      </filter>
+    </defs>
+
+    <!-- Background Card -->
+    <rect width="100%" height="100%" fill="url(#bgGrad)" rx="10" />
+
+    <!-- Stylized Digital Wave Geometry -->
+    <path d="M 0,200 Q 250,150 500,210 T 1000,180 L 1000,260 L 0,260 Z" fill="#00FF33" opacity="0.15" />
+    <path d="M 0,220 Q 300,180 600,230 T 1000,210 L 1000,260 L 0,260 Z" fill="#00FF33" opacity="0.3" />
+
+    <!-- Main Title: Glowing Matrix Green -->
+    <text x="50%" y="125" 
+          font-family="system-ui, -apple-system, 'Segoe UI', Roboto, 'Courier New', monospace" 
+          font-size="68" 
+          font-weight="900" 
+          letter-spacing="6"
+          fill="#00FF33" 
+          filter="url(#glow)"
+          text-anchor="middle">
+      LUBAN NOOR
+    </text>
+
+    <!-- Description Text: Crisp White -->
+    <text x="50%" y="175" 
+          font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" 
+          font-size="20" 
+          font-weight="500" 
+          letter-spacing="2"
+          fill="#ffffff" 
+          opacity="0.9"
+          text-anchor="middle">
+      Software Engineer • Web Developer
+    </text>
+  </svg>
 </a>
+
 
 
 
