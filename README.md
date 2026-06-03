@@ -1,3 +1,7 @@
+<a href="https://github.com/imluban">
+  <img width="100%" alt="Luban Noor's GitHub profile" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,20,30&height=260&section=header&text=rioryugen&fontSize=90&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Developer%20%E2%80%A2%20AI%20Tools%20Builder%20%E2%80%A2%20Open%20Source&descSize=22&descAlignY=62"/>
+</a>
+
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 <p align="center">
@@ -20,3 +24,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=imluban&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+<a href="https://github.com/imluban">
+  <img width="100%" Luban Noor's profile footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,20,30&height=130&section=footer&animation=fadeIn"/>
+</a>
