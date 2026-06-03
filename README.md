@@ -1,9 +1,6 @@
 <a href="https://github.com/imluban">
-  <img width="100%" alt="Luban Noor's GitHub profile" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=020,040,080,0f5,0a0&height=260&section=header&text=LUBAN%20NOOR&fontSize=70&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20Web%20Developer&descSize=22&descAlignY=62"/>
+  <img width="100%" alt="Luban Noor's GitHub profile" src="https://capsule-render.vercel.app/api?type=waving&color=0:001100,50:006600,100:00FF33&height=260&section=header&text=LUBAN%20NOOR&fontSize=70&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20Web%20Developer&descSize=22&descAlignY=62"/>
 </a>
-
-
-
 
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
