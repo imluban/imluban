@@ -1,5 +1,5 @@
 <a href="https://github.com/imluban">
-  <img width="100%" alt="Luban Noor's GitHub profile" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:222222,100:444444&height=260&section=header&text=LUBAN%20NOOR&fontName=Times%20New%20Roman&fontSize=70&fontAlignY=38&fontColor=00FF33&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20Web%20Developer&descSize=22&descAlignY=62"/>
+  <img width="100%" alt="Luban Noor's GitHub profile" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:222222,100:444444&height=260&section=header&text=LUBAN%20NOOR&fontName=Times%20New%20Roman&fontSize=70&fontAlignY=38&fontColor=00FF33&animation=fadeIn&desc=Software%20Developer%20%E2%80%A2%20Web%20Developer&descSize=22&descAlignY=62"/>
 </a>
 
 
