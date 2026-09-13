@@ -1,8 +1,12 @@
 ![LN banner](assets/banner.svg)
 
+![LN divider](assets/divider.svg)
+
 <p align="center">
 <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=860808&size=22&center=true&lines=my+unmatched+perspicacity;coupled+with+sheer+indefatigability;makes+me+a+feared+opponent;in+any+realm+of+human+endeavor!"></a>
 </p>
+
+![LN divider](assets/divider.svg)
 
 ![LN Tech-Stack](assets/tech-stack.svg)
 
