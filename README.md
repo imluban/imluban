@@ -11,31 +11,27 @@
 ## Tech Stack:
 ![LN Tech-Stack](assets/tech-stack.svg)
 
-![LN divider](assets/divider.svg)
-
 ## GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=imluban&theme=aura&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=imluban&theme=aura&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=imluban&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-![LN divider](assets/divider.svg)
-
 ## Socials:
 <p align="left">
-  <a href="https://discord.gg/WMRarXX6"><img src="assets/socials/discord.png" width="40" height="40" alt="Discord"/></a>
-  <a href="https://www.facebook.com/profile.php?id=61574757225340"><img src="assets/socials/facebook.png" width="40" height="40" alt="Facebook"/></a>
-  <a href="https://instagram.com/lubannoor"><img src="assets/socials/instagram.png" width="40" height="40" alt="Instagram"/></a>
-  <a href="https://x.com/LubanNoor"><img src="assets/socials/x.png" width="40" height="40" alt="X"/></a>
-  <a href="mailto:lubanmac@gmail.com"><img src="assets/socials/email.png" width="40" height="40" alt="Email"/></a>
+  <a href="https://discord.gg/WMRarXX6"><img src="assets/socials/discord.jpg" width="40" height="40" alt="Discord"/></a>
+  <a href="https://www.facebook.com/profile.php?id=61574757225340"><img src="assets/socials/facebook.jpg" width="40" height="40" alt="Facebook"/></a>
+  <a href="https://instagram.com/lubannoor"><img src="assets/socials/instagram.jpg" width="40" height="40" alt="Instagram"/></a>
+  <a href="https://x.com/LubanNoor"><img src="assets/socials/x.jpg" width="40" height="40" alt="X"/></a>
+  <a href="mailto:lubanmac@gmail.com"><img src="assets/socials/email.jpg" width="40" height="40" alt="Email"/></a>
+  <a href="https://linkedin.com/in/lubannoor"><img src="assets/socials/linkedin.jpg" width="40" height="40" alt="LinkedIn"/></a>
+  <a href="https://spotify.com/lubannoor"><img src="assets/socials/spotify.jpg" width="40" height="40" alt="Spotify"/></a>
+  <a href="https://telegram.com/lubannoor"><img src="assets/socials/telegram.jpg" width="40" height="40" alt="Telegram"/></a>
+  <a href="https://steamcommunity.com/profiles/76561198645625981/"><img src="assets/socials/steam.jpg" width="40" height="40" alt="Steam"/></a>
 </p>
-
-![LN divider](assets/divider.svg)
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-![LN divider](assets/divider.svg)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
