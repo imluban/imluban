@@ -3,7 +3,7 @@
 ![LN divider](assets/divider.svg)
 
 <p align="center">
-<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=6B1F2B&size=22&center=true&lines=my+unmatched+perspicacity;coupled+with+sheer+indefatigability;makes+me+a+feared+opponent;in+any+realm+of+human+endeavor!"></a>
+<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=F3E7D3&size=22&center=true&lines=my+unmatched+perspicacity;coupled+with+sheer+indefatigability;makes+me+a+feared+opponent;in+any+realm+of+human+endeavor!"></a>
 </p>
 
 ![LN divider](assets/divider.svg)
