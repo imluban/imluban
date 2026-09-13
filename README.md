@@ -36,7 +36,9 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-![LN divider](assets/divider.svg)
+![LN divider](assets/divider.svg)<br/>
+
+&nbsp;&nbsp;&nbsp;<br/>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
