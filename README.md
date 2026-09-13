@@ -18,14 +18,14 @@
 
 ## Socials:
 <p align="left">
-  <a href="https://discord.gg/WMRarXX6"><img src="assets/socials/discord.png" width="40" height="40" alt="Discord"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=61574757225340"><img src="assets/socials/facebook.png" width="40" height="40" alt="Facebook"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/lubannoor"><img src="assets/socials/instagram.png" width="40" height="40" alt="Instagram"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/LubanNoor"><img src="assets/socials/x.png" width="40" height="40" alt="X"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:lubanmac@gmail.com"><img src="assets/socials/email.png" width="40" height="40" alt="Email"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/lubannoor"><img src="assets/socials/linkedin.png" width="40" height="40" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://spotify.com/lubannoor"><img src="assets/socials/spotify.png" width="40" height="40" alt="Spotify"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://telegram.com/lubannoor"><img src="assets/socials/telegram.png" width="40" height="40" alt="Telegram"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/WMRarXX6"><img src="assets/socials/discord.png" width="40" height="40" alt="Discord"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=61574757225340"><img src="assets/socials/facebook.png" width="40" height="40" alt="Facebook"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/lubannoor"><img src="assets/socials/instagram.png" width="40" height="40" alt="Instagram"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/LubanNoor"><img src="assets/socials/x.png" width="40" height="40" alt="X"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:lubanmac@gmail.com"><img src="assets/socials/email.png" width="40" height="40" alt="Email"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/lubannoor"><img src="assets/socials/linkedin.png" width="40" height="40" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://spotify.com/lubannoor"><img src="assets/socials/spotify.png" width="40" height="40" alt="Spotify"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://telegram.com/lubannoor"><img src="assets/socials/telegram.png" width="40" height="40" alt="Telegram"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://steamcommunity.com/profiles/76561198645625981/"><img src="assets/socials/steam.png" width="40" height="40" alt="Steam"/></a>
 
 
