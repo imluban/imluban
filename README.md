@@ -1,9 +1,4 @@
-<a href="https://github.com/imluban">
-  <img width="100%" alt="Luban Noor's GitHub profile" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:222222,100:444444&height=260&section=header&text=LUBAN%20NOOR&fontName=Times%20New%20Roman&fontSize=70&fontAlignY=38&fontColor=00FF33&animation=fadeIn&desc=Entrepreneur%20%E2%80%A2%20Software%20Developer&descSize=22&descAlignY=62"/>
-</a>
 
-
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.x.com/LubanNoor)
 
 <p align="center">
 <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=32CD32&size=22&center=true&lines=my+unmatched+perspicacity;coupled+with+sheer+indefatigability;makes+me+a+feared+opponent;in+any+realm+of+human+endeavor!"></a>
