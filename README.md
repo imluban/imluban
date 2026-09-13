@@ -28,11 +28,13 @@
   <a href="https://telegram.com/lubannoor"><img src="assets/socials/telegram.png" width="40" height="40" alt="Telegram"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://steamcommunity.com/profiles/76561198645625981/"><img src="assets/socials/steam.png" width="40" height="40" alt="Steam"/></a>
 
+![LN divider](assets/divider.svg)
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+![LN divider](assets/divider.svg)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
