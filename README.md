@@ -26,7 +26,7 @@
   <a href="https://linkedin.com/in/lubannoor"><img src="assets/socials/linkedin.png" width="40" height="40" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://spotify.com/lubannoor"><img src="assets/socials/spotify.png" width="40" height="40" alt="Spotify"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://telegram.com/lubannoor"><img src="assets/socials/telegram.png" width="40" height="40" alt="Telegram"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://steamcommunity.com/profiles/76561198645625981/"><img src="assets/socials/steam.png" width="40" height="40" alt="Steam"/></a>
+  <a href="https://steamcommunity.com/profiles/76561198645625981/"><img src="assets/socials/steam.png" width="40" height="40" alt="Steam"/></a><br/>
 
 ![LN divider](assets/divider.svg)
 
