@@ -22,11 +22,11 @@
 
 ## Socials:
 <p align="left">
-  <a href="https://discord.gg/WMRarXX6"><img src="https://www.pinterest.com/pin/799459371389692463/" width="40" height="40" alt="Discord"/></a>
-  <a href="https://www.facebook.com/profile.php?id=61574757225340"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40" alt="Facebook"/></a>
-  <a href="https://instagram.com/lubannoor"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram"/></a>
-  <a href="https://x.com/LubanNoor"><img src="https://cdn.simpleicons.org/x/000000/FFFFFF" width="40" height="40" alt="X"/></a>
-  <a href="mailto:lubanmac@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Email"/></a>
+  <a href="https://discord.gg/WMRarXX6"><img src="assets/socials/discord.png" width="40" height="40" alt="Discord"/></a>
+  <a href="https://www.facebook.com/profile.php?id=61574757225340"><img src="assets/socials/facebook.png" width="40" height="40" alt="Facebook"/></a>
+  <a href="https://instagram.com/lubannoor"><img src="assets/socials/instagram.png" width="40" height="40" alt="Instagram"/></a>
+  <a href="https://x.com/LubanNoor"><img src="assets/socials/x.png" width="40" height="40" alt="X"/></a>
+  <a href="mailto:lubanmac@gmail.com"><img src="assets/socials/email.png" width="40" height="40" alt="Email"/></a>
 </p>
 
 ![LN divider](assets/divider.svg)
