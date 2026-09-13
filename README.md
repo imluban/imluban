@@ -18,7 +18,7 @@
 
 ## Socials:
 <p align="left">
-  <a href="https://discord.gg/WMRarXX6"><img src="assets/socials/discord.pn\g" width="40" height="40" alt="Discord"/></a>
+  <a href="https://discord.gg/WMRarXX6"><img src="assets/socials/discord.png" width="40" height="40" alt="Discord"/></a>
   <a href="https://www.facebook.com/profile.php?id=61574757225340"><img src="assets/socials/facebook.png" width="40" height="40" alt="Facebook"/></a>
   <a href="https://instagram.com/lubannoor"><img src="assets/socials/instagram.png" width="40" height="40" alt="Instagram"/></a>
   <a href="https://x.com/LubanNoor"><img src="assets/socials/x.png" width="40" height="40" alt="X"/></a>
