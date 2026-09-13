@@ -30,13 +30,11 @@
 
 &nbsp;&nbsp;&nbsp;<br/>
 
-![LN divider](assets/divider.svg)
+## Contribution Simulator:
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-![LN divider](assets/divider.svg)<br/>
+</div><br/>
 
 &nbsp;&nbsp;&nbsp;<br/>
 
