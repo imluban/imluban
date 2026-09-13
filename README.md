@@ -8,7 +8,7 @@
 
 ![LN divider](assets/divider.svg)
 
-# Tech Stack:
+Tech Stack:
 ![LN Tech-Stack](assets/tech-stack.svg)
 
 ![LN divider](assets/divider.svg)
