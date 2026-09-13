@@ -21,7 +21,13 @@
 ![LN divider](assets/divider.svg)
 
 ## Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/WMRarXX6) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61574757225340) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lubannoor) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LubanNoor) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lubanmac@gmail.com)
+<p align="left">
+  <a href="https://discord.gg/WMRarXX6"><img src="https://cdn.simpleicons.org/discord/5865F2" width="40" height="40" alt="Discord"/></a>
+  <a href="https://www.facebook.com/profile.php?id=61574757225340"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40" alt="Facebook"/></a>
+  <a href="https://instagram.com/lubannoor"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram"/></a>
+  <a href="https://x.com/LubanNoor"><img src="https://cdn.simpleicons.org/x/000000/FFFFFF" width="40" height="40" alt="X"/></a>
+  <a href="mailto:lubanmac@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Email"/></a>
+</p>
 
 ![LN divider](assets/divider.svg)
 
