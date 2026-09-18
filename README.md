@@ -8,7 +8,10 @@
 
 ![LN divider](assets/divider.svg)
 
-## Tech Stack:
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=1&pause=1000&color=F3E7D3&center=false&vCenter=true&width=300&lines=Tech+Stack%3A" alt="Tech Stack:" />
+</p>
+
 ![LN Tech-Stack](assets/tech-stack.svg)
 
 ## GitHub Stats:
