@@ -11,8 +11,7 @@
 ![LN divider](assets/divider.svg)
 
 
-
-<img src="./assets/techstack-h1.svg" alt="Tech Stack:" />
+![Tech-Stack h1](assets/techstack-h1.svg)
 ![LN Tech-Stack](assets/tech-stack.svg)
 
 
