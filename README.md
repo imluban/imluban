@@ -1,6 +1,6 @@
 ![LN banner](assets/banner.svg)
 
-
+&nbsp;&nbsp;&nbsp;<br/>
 
 ![LN divider](assets/divider.svg)
 
@@ -10,19 +10,19 @@
 
 ![LN divider](assets/divider.svg)
 
-
+&nbsp;&nbsp;&nbsp;<br/>
 
 ![Tech-Stack h1](assets/techstack-h1.svg)
 ![LN Tech-Stack](assets/tech-stack.svg)
 
-
+&nbsp;&nbsp;&nbsp;<br/>
 
 ![Github-Stats h1](assets/githubstats-h1.svg)<br/>
 ![](https://github-readme-stats.shion.dev/api?username=imluban&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=imluban&theme=maroongold&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=imluban&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
+&nbsp;&nbsp;&nbsp;<br/>
 
 ![Socials h1](assets/socials-h1.svg)
 <p align="left">
@@ -38,8 +38,6 @@
 
 &nbsp;&nbsp;&nbsp;<br/>
 
-
-
 ![Contribution-Simulator h1](assets/contributionsimulator-h1.svg)
 
 <div align="center">
@@ -48,11 +46,9 @@
 
 &nbsp;&nbsp;&nbsp;<br/>
 
-
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-
+&nbsp;&nbsp;&nbsp;<br/>
 
 <a href="https://github.com/imluban">
   <img width="100%" alt="Luban Noor's profile footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0000,50:4A0E15,100:800020&height=150&section=footer&animation=fadeIn"/>
