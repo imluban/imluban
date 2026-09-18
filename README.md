@@ -1,5 +1,7 @@
 ![LN banner](assets/banner.svg)
 
+
+
 ![LN divider](assets/divider.svg)
 
 <p align="center">
@@ -8,18 +10,21 @@
 
 ![LN divider](assets/divider.svg)
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=Tech%20Stack%3A&fontSize=28&fontColor=F3E7D3&fontAlign=0&fontAlignY=55&width=400" alt="Tech Stack:" />
-</p>
 
+
+<img src="./assets/techstack-h1.svg" alt="Tech Stack:" />
 ![LN Tech-Stack](assets/tech-stack.svg)
 
-## GitHub Stats:
+
+
+<img src="./assets/githubstats-h1.svg" alt="GitHub Stats:" />
 ![](https://github-readme-stats.shion.dev/api?username=imluban&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=imluban&theme=maroongold&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=imluban&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Socials:
+
+
+<img src="./assets/socials-h1.svg" alt="Socials:" />
 <p align="left">
   <a href="https://discord.gg/WMRarXX6"><img src="assets/socials/discord.png" width="40" height="40" alt="Discord"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/profile.php?id=61574757225340"><img src="assets/socials/facebook.png" width="40" height="40" alt="Facebook"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,7 +38,9 @@
 
 &nbsp;&nbsp;&nbsp;<br/>
 
-## Contribution Simulator:
+
+
+<img src="./assets/contributionsimulation-h1.svg" alt="Contribution Simulation:" />
 
 <div align="center">
   <img src="./assets/snake-wine.svg" alt="Snake animation" />
@@ -41,7 +48,11 @@
 
 &nbsp;&nbsp;&nbsp;<br/>
 
+
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
 
 <a href="https://github.com/imluban">
   <img width="100%" alt="Luban Noor's profile footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0000,50:4A0E15,100:800020&height=150&section=footer&animation=fadeIn"/>
