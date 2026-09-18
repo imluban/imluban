@@ -9,7 +9,7 @@
 ![LN divider](assets/divider.svg)
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=Tech%20Stack%3A&fontSize=22&fontColor=F3E7D3&fontAlign=0&fontAlignY=50" alt="Tech Stack:" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=Tech%20Stack%3A&fontSize=28&fontColor=F3E7D3&fontAlign=0&fontAlignY=55&width=400" alt="Tech Stack:" />
 </p>
 
 ![LN Tech-Stack](assets/tech-stack.svg)
