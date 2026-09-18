@@ -40,7 +40,7 @@
 
 
 
-![Contribution-Simulation h1](assets/contributionsimulation-h1.svg)
+![Contribution-Simulator h1](assets/contributionsimulator-h1.svg)
 
 <div align="center">
   <img src="./assets/snake-wine.svg" alt="Snake animation" />
