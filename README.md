@@ -26,7 +26,7 @@
 
 ![Socials h1](assets/socials-h1.svg)
 <p align="left">
-  <a href="https://discord/1165875467102994566"><img src="assets/socials/discord.png" width="40" height="40" alt="Discord"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/1165875467102994566"><img src="assets/socials/discord.png" width="40" height="40" alt="Discord"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/profile.php?id=61574757225340"><img src="assets/socials/facebook.png" width="40" height="40" alt="Facebook"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/lubannoor"><img src="assets/socials/instagram.png" width="40" height="40" alt="Instagram"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/LubanNoor"><img src="assets/socials/x.png" width="40" height="40" alt="X"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
