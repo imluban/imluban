@@ -11,19 +11,20 @@
 ![LN divider](assets/divider.svg)
 
 
+
 ![Tech-Stack h1](assets/techstack-h1.svg)
 ![LN Tech-Stack](assets/tech-stack.svg)
 
 
 
-<img src="./assets/githubstats-h1.svg" alt="GitHub Stats:" />
+![Github-Stats h1](assets/githubstats-h1.svg)
 ![](https://github-readme-stats.shion.dev/api?username=imluban&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=imluban&theme=maroongold&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=imluban&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
-<img src="./assets/socials-h1.svg" alt="Socials:" />
+![Socials h1](assets/socials-h1.svg)
 <p align="left">
   <a href="https://discord.gg/WMRarXX6"><img src="assets/socials/discord.png" width="40" height="40" alt="Discord"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/profile.php?id=61574757225340"><img src="assets/socials/facebook.png" width="40" height="40" alt="Facebook"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,7 +40,7 @@
 
 
 
-<img src="./assets/contributionsimulation-h1.svg" alt="Contribution Simulation:" />
+![Contribution-Simulation h1](assets/contributionsimulation-h1.svg)
 
 <div align="center">
   <img src="./assets/snake-wine.svg" alt="Snake animation" />
