@@ -9,7 +9,7 @@
 ![LN divider](assets/divider.svg)
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=1&pause=1000&color=F3E7D3&center=false&vCenter=true&width=300&lines=Tech+Stack%3A" alt="Tech Stack:" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=Tech%20Stack%3A&fontSize=22&fontColor=F3E7D3&fontAlign=0&fontAlignY=50" alt="Tech Stack:" />
 </p>
 
 ![LN Tech-Stack](assets/tech-stack.svg)
