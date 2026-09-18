@@ -48,7 +48,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-&nbsp;&nbsp;&nbsp;<br/>
 
 <a href="https://github.com/imluban">
   <img width="100%" alt="Luban Noor's profile footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0000,50:4A0E15,100:800020&height=150&section=footer&animation=fadeIn"/>
