@@ -22,7 +22,7 @@
       <animate attributeName="cx" values="738;666;774;738" dur="25s" repeatCount="indefinite"/>
       <animate attributeName="cy" values="210;174;228;210" dur="21s" repeatCount="indefinite"/>
     </ellipse>
-    <ellipse cx="504" cy="276" rx="120" ry="72" fill="#cf1b1b" opacity="0.28">
+    <ellipse cx="504" cy="276" rx="120" ry="72" fill="#F3E7D3" opacity="0.28">
       <animate attributeName="opacity" values="0.18;0.34;0.18" dur="13s" repeatCount="indefinite"/>
     </ellipse>
   </g>
